@@ -1,20 +1,14 @@
 [
     {
-        "account":      "PAC-samsung",
+        "account":      "acebox",
         "repository":   "android_device_samsung_i927",
         "target_path":  "device/samsung/i927",
         "revision":     "jellybean"
     },
     {
-        "account":      "PAC-samsung",
-        "repository":   "android_kernel_samsung_i927",
-        "target_path":  "kernel/samsung/i927",
-        "revision":     "jellybean"
-    },
-    {
-        "account":      "TheMuppets",
-        "repository":   "proprietary_vendor_samsung",
-        "target_path":  "vendor/samsung",
+        "account":      "acebox",
+        "repository":	"android_kernel_samsung_n1",
+        "target_path":	"kernel/samsung/n1",
         "revision":     "jellybean"
     }
 ]
